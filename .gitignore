@@ -18,16 +18,6 @@ __pycache__/
 .ipynb_checkpoints/
 *.ipynb~
 
-# =========================
-# Data Files (optional - keep raw data out of git)
-# =========================
-data/
-datasets/
-*.csv
-*.tsv
-*.xlsx
-*.json
-*.parquet
 
 # =========================
 # Plots / Outputs
